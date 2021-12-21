@@ -1,0 +1,7 @@
+server:
+  mini_lobby:
+    - party
+    - hub
+  global:
+    - version
+message: "&8[&c!&8] &7很抱歉 您無法使用該指令"

@@ -1,0 +1,8 @@
+name: BungeeCommandBlock
+main: ew.sr.x1c.quilt.meow.bungee.CommandBlock.Main
+version: 0.02
+author: EW_Quilt
+permissions:
+  bungee.command.bypass.global:
+    description: 允許跳過指令檢查
+    default: op
